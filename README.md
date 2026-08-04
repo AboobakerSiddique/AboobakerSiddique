@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:00FF9C,100:9D4EDD&height=230&section=header&text=Aboobaker%20Siddique&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=AI%20Application%20Developer%20%7C%20Python%20%7C%20LLM%20Engineer&descAlignY=58&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:00FF9C,100:9D4EDD&height=230&section=header&text=Aboobaker%20Siddique&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Python%20%7C%20Backend%20Developer%20%7C%20Aspiring%20AI%20Engineer&descAlignY=58&descSize=18"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=00FF9C&center=true&vCenter=true&width=750&lines=Training+my+brain+like+an+AI+model...;Difference%3A+AI+gets+GPUs.+I+get+coffee.;Currently+teaching+Python+not+to+crash;Sleep.exe+has+stopped+responding" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=00FF9C&center=true&vCenter=true&width=750&lines=Building+backend+systems%2C+one+API+at+a+time;Currently+learning+authentication+%26+security;Documenting+my+AI+Engineer+journey+in+public;Sleep.exe+has+stopped+responding" />
 
 <br>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=AboobakerSiddique&color=00FF9C&style=for-the-badge&label=PROFILE+VIEWS)
-![Status](https://img.shields.io/badge/STATUS-Compiling_Dreams-9D4EDD?style=for-the-badge)
-![Focus](https://img.shields.io/badge/FOCUS-Building_AI_Apps-00E5FF?style=for-the-badge)
+![Status](https://img.shields.io/badge/STATUS-Learning_in_Public-9D4EDD?style=for-the-badge)
+![Focus](https://img.shields.io/badge/FOCUS-Backend_%26_Security-00E5FF?style=for-the-badge)
 
 </div>
 
@@ -17,32 +17,31 @@
 ```
 > Initializing Developer.exe...
 
-  Loading Python skills      ███████░░░  70%
-  Backend powers             █████░░░░░  50%
-  AI Engineering             ████░░░░░░  40%
-  Coffee reserves            ██████████ 100%
+  Python fundamentals        ████████░░  75%
+  Backend (FastAPI)          ██████░░░░  55%
+  Authentication & Security  ████░░░░░░  35%
+  AI Engineering             █░░░░░░░░░  10%
   Sleep Mode                 ❌ Disabled
 
-> Boot sequence complete. Ready to break (and fix) things.
+> Boot sequence complete. Currently in progress, not perfection.
 ```
 
 <br>
 
 ## 👋 Hi, I'm Aboobaker
 
-An Electronics & Communication Engineer who took one look at circuits and said *"what if I made this harder for myself"* — and switched to software.
+An Electronics & Communication Engineering graduate now building backend systems in Python — currently deep in FastAPI, databases, and authentication, with AI Engineering as the long-term destination.
 
 ```
 $ whoami
-> aspiring AI application developer, professionally confused, permanently curious
+> backend developer in training, documenting the journey in public
 
 $ status
-> "My code works. I don't know why."
-> "Debugging since birth."
-> "Currently teaching Python not to crash."
+> "My code works. I don't always know why on the first try."
+> "Debugging is just part of the process now."
 ```
 
-I take coding seriously. I do not take myself seriously. There's a difference, and my commit history proves it.
+I take the work seriously. I keep the tone light. Both things can be true.
 
 <br>
 
@@ -57,24 +56,25 @@ class Developer:
     def __init__(self):
         self.name = "Aboobaker Siddique"
         self.background = "Electronics & Communication Engineering"
-        self.current_role = "AI Application Developer (in training)"
+        self.current_role = "Backend Developer (transitioning into AI Engineering)"
         self.currently_learning = [
-            "FastAPI", "RAG pipelines", "AI Agents", "Vector DBs"
+            "JWT", "Dependency Injection", "Security",
+            "Backend Architecture", "Advanced FastAPI"
         ]
-        self.philosophy = "Ship it, break it, understand it, ship it better."
+        self.philosophy = "Build it properly, understand it fully, then move on."
 
-    def coffee_to_code(self, coffee: int) -> str:
-        return "production-ready feature" if coffee > 2 else "syntax error"
+    def next_step(self) -> str:
+        return "Ship the current API, then start on JWT auth."
 
 
 me = Developer()
 ```
 
-- 🎓 ECE graduate who found more excitement in `print()` than in Ohm's Law
-- 🔁 Currently rebuilding myself, one framework at a time
-- 🤖 Long-term goal: build AI systems that solve problems people actually have
-- 🧩 Coding philosophy: understand the bug before you fix it, understand the fix before you ship it
-- ☕ Fueled by curiosity, caffeine, and an unreasonable number of open tabs
+- 🎓 ECE graduate, now building software instead of circuits
+- 🐍 Focused on Python backend development — FastAPI, SQLAlchemy, REST APIs
+- 🔐 Currently learning authentication, security, and backend architecture
+- 📖 Publicly documenting every stage of the transition into AI Engineering
+- 🎯 Approach: only claim skills I've actually built something with
 
 <br>
 
@@ -82,37 +82,23 @@ me = Developer()
 
 <br>
 
-## 🧬 My Developer Evolution
+## 🧬 Developer Evolution
 
 ```mermaid
 graph LR
-    A["⚡ ECE Engineer"] --> B["🐍 Python Beginner"]
-    B --> C["⚙️ Backend Builder"]
-    C --> D["🤖 AI Explorer"]
-    D --> E["🚀 Future AI Engineer"]
+    A["🎓 ECE Graduate"] --> B["🐍 Python Developer"]
+    B --> C["⚙️ Backend Developer 📍"]
+    C -.-> D["🔐 Security & Auth"]
+    D -.-> E["🤖 AI Engineer"]
 
     style A fill:#0D1117,stroke:#00FF9C,stroke-width:2px,color:#00FF9C
-    style B fill:#0D1117,stroke:#00E5FF,stroke-width:2px,color:#00E5FF
-    style C fill:#0D1117,stroke:#9D4EDD,stroke-width:2px,color:#9D4EDD
-    style D fill:#0D1117,stroke:#00FF9C,stroke-width:2px,color:#00FF9C
-    style E fill:#0D1117,stroke:#00E5FF,stroke-width:2px,color:#00E5FF
+    style B fill:#0D1117,stroke:#00FF9C,stroke-width:2px,color:#00FF9C
+    style C fill:#0D1117,stroke:#00E5FF,stroke-width:3px,color:#00E5FF
+    style D fill:#0D1117,stroke:#666666,stroke-width:1px,color:#888888
+    style E fill:#0D1117,stroke:#666666,stroke-width:1px,color:#888888
 ```
 
-**The roadmap:**
-
-```mermaid
-graph LR
-    P["Python"] --> B["Backend Dev"] --> F["FastAPI"] --> A["APIs"] --> L["LLM Apps"] --> R["RAG"] --> AG["AI Agents"] --> PR["Production AI 🚀"]
-
-    style P fill:#0D1117,stroke:#00FF9C,color:#00FF9C
-    style B fill:#0D1117,stroke:#00FF9C,color:#00FF9C
-    style F fill:#0D1117,stroke:#00E5FF,color:#00E5FF
-    style A fill:#0D1117,stroke:#00E5FF,color:#00E5FF
-    style L fill:#0D1117,stroke:#9D4EDD,color:#9D4EDD
-    style R fill:#0D1117,stroke:#9D4EDD,color:#9D4EDD
-    style AG fill:#0D1117,stroke:#00FF9C,color:#00FF9C
-    style PR fill:#0D1117,stroke:#00E5FF,color:#00E5FF
-```
+📍 = current stage · dashed = not there yet
 
 <br>
 
@@ -122,27 +108,31 @@ graph LR
 
 ## 🛠️ Tech Stack
 
+*Only technologies I've actually used and built projects with.*
+
 **Languages**
 
-<img src="https://img.shields.io/badge/Python-00FF9C?style=for-the-badge&logo=python&logoColor=000000"/>
+<img src="https://img.shields.io/badge/Python-00FF9C?style=for-the-badge&logo=python&logoColor=000000"/> <img src="https://img.shields.io/badge/HTML-00E5FF?style=for-the-badge&logo=html5&logoColor=000000"/> <img src="https://img.shields.io/badge/CSS-9D4EDD?style=for-the-badge&logo=css3&logoColor=white"/>
 
-**Backend**
+**Backend & APIs**
 
-<img src="https://img.shields.io/badge/FastAPI-00E5FF?style=for-the-badge&logo=fastapi&logoColor=000000"/> <img src="https://img.shields.io/badge/REST_APIs-9D4EDD?style=for-the-badge&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-00FF9C?style=for-the-badge&logo=postgresql&logoColor=000000"/> <img src="https://img.shields.io/badge/PostgreSQL-00E5FF?style=for-the-badge&logo=postgresql&logoColor=000000"/>
+<img src="https://img.shields.io/badge/FastAPI-00FF9C?style=for-the-badge&logo=fastapi&logoColor=000000"/> <img src="https://img.shields.io/badge/REST_APIs-00E5FF?style=for-the-badge&logoColor=000000"/> <img src="https://img.shields.io/badge/SQLite-9D4EDD?style=for-the-badge&logo=sqlite&logoColor=white"/> <img src="https://img.shields.io/badge/SQLAlchemy-00FF9C?style=for-the-badge&logoColor=000000"/> <img src="https://img.shields.io/badge/Pydantic-00E5FF?style=for-the-badge&logoColor=000000"/> <img src="https://img.shields.io/badge/Swagger-9D4EDD?style=for-the-badge&logo=swagger&logoColor=white"/>
 
-`🔜 Learning next:` <img src="https://img.shields.io/badge/Redis-444444?style=for-the-badge&logo=redis&logoColor=00FF9C"/> <img src="https://img.shields.io/badge/Celery-444444?style=for-the-badge&logo=celery&logoColor=00E5FF"/> <img src="https://img.shields.io/badge/Nginx-444444?style=for-the-badge&logo=nginx&logoColor=9D4EDD"/> <img src="https://img.shields.io/badge/Kubernetes-444444?style=for-the-badge&logo=kubernetes&logoColor=00FF9C"/>
+**Authentication & Security**
 
-**AI Engineering**
+<img src="https://img.shields.io/badge/Password_Hashing-00FF9C?style=for-the-badge&logoColor=000000"/> <img src="https://img.shields.io/badge/bcrypt-00E5FF?style=for-the-badge&logoColor=000000"/> <img src="https://img.shields.io/badge/Passlib-9D4EDD?style=for-the-badge&logoColor=white"/> <img src="https://img.shields.io/badge/Auth_Fundamentals-00FF9C?style=for-the-badge&logoColor=000000"/>
 
-<img src="https://img.shields.io/badge/OpenAI_API-9D4EDD?style=for-the-badge&logo=openai&logoColor=white"/> <img src="https://img.shields.io/badge/Gemini_API-00FF9C?style=for-the-badge&logo=googlegemini&logoColor=000000"/> <img src="https://img.shields.io/badge/LangChain-00E5FF?style=for-the-badge&logoColor=000000"/> <img src="https://img.shields.io/badge/RAG-9D4EDD?style=for-the-badge&logoColor=white"/> <img src="https://img.shields.io/badge/Vector_Databases-00FF9C?style=for-the-badge&logoColor=000000"/> <img src="https://img.shields.io/badge/AI_Agents-00E5FF?style=for-the-badge&logoColor=000000"/>
+**GUI**
 
-`🔜 Learning next:` <img src="https://img.shields.io/badge/LangGraph-444444?style=for-the-badge&logoColor=00FF9C"/> <img src="https://img.shields.io/badge/CrewAI-444444?style=for-the-badge&logoColor=00E5FF"/> <img src="https://img.shields.io/badge/LlamaIndex-444444?style=for-the-badge&logoColor=9D4EDD"/> <img src="https://img.shields.io/badge/Pinecone-444444?style=for-the-badge&logoColor=00FF9C"/> <img src="https://img.shields.io/badge/ChromaDB-444444?style=for-the-badge&logoColor=00E5FF"/> <img src="https://img.shields.io/badge/Hugging_Face-444444?style=for-the-badge&logo=huggingface&logoColor=9D4EDD"/>
+<img src="https://img.shields.io/badge/Tkinter-00E5FF?style=for-the-badge&logoColor=000000"/>
+
+**Embedded / IoT**
+
+<img src="https://img.shields.io/badge/Arduino-9D4EDD?style=for-the-badge&logo=arduino&logoColor=white"/> <img src="https://img.shields.io/badge/ESP32-00FF9C?style=for-the-badge&logo=espressif&logoColor=000000"/>
 
 **Tools**
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker"/>
-
-`🔜 Learning next:` <img src="https://img.shields.io/badge/Kubernetes-444444?style=for-the-badge&logo=kubernetes&logoColor=00FF9C"/> <img src="https://img.shields.io/badge/GitHub_Actions-444444?style=for-the-badge&logo=githubactions&logoColor=00E5FF"/> <img src="https://img.shields.io/badge/Postman-444444?style=for-the-badge&logo=postman&logoColor=9D4EDD"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode"/> <img src="https://img.shields.io/badge/Postman-00E5FF?style=for-the-badge&logo=postman&logoColor=000000"/>
 
 <br>
 
@@ -150,37 +140,98 @@ graph LR
 
 <br>
 
-## 🚀 Projects
+## 🚀 Future Learning Roadmap
 
-### ✅ Completed
+| Skill | Status |
+|---|:---:|
+| Python | ✅ |
+| FastAPI | ✅ |
+| Authentication | 🔄 |
+| JWT | 🔄 |
+| Docker | ⏳ |
+| Redis | ⏳ |
+| AI APIs | ⏳ |
+| LLMs | ⏳ |
+| LangChain | ⏳ |
+| RAG | ⏳ |
+| AI Agents | ⏳ |
+| Production AI Systems | ⏳ |
 
-| Project | What it does |
+✅ Done &nbsp;·&nbsp; 🔄 In progress &nbsp;·&nbsp; ⏳ Not started yet
+
+<br>
+
+---
+
+<br>
+
+## 📈 Weekly Learning Progress
+
+| Week | Status | Focus |
+|---|:---:|---|
+| Week 1 | ✅ | Python |
+| Week 2 | ✅ | Intermediate Python |
+| Week 3 | ✅ | FastAPI + SQLAlchemy |
+| Week 4 | 🔄 | Authentication |
+| Week 5 | ⏳ | JWT |
+| Week 6 | ⏳ | AI APIs |
+
+<br>
+
+---
+
+<br>
+
+## 🏗 Current Focus
+
+- Building secure backend applications
+- Learning authentication and security fundamentals
+- Creating portfolio-quality REST APIs
+- Documenting the learning process publicly, week by week
+
+<br>
+
+---
+
+<br>
+
+## 📚 Recent Achievements
+
+- ✅ Built Student Management API
+- ✅ Built Task Manager API
+- ✅ Learned SQLAlchemy
+- ✅ Learned Authentication Fundamentals
+
+<br>
+
+---
+
+<br>
+
+## 🎯 Next Milestone
+
+- JWT Authentication
+- Docker
+- OpenAI API
+- First AI Assistant
+
+<br>
+
+---
+
+<br>
+
+## 💼 Projects
+
+| Project | Description |
 |---|---|
-| **Calculator** | The classic first boss fight. Defeated. |
-| **Password Generator** | Generates passwords stronger than my sleep schedule. |
-| **Expense Tracker** | Tracks where my money goes so I don't have to feel bad about not knowing. |
-| **File Organizer** | Because my Downloads folder was a certified crime scene. |
-
-### 🔨 Building Now
-
-**💰 Personal Finance Manager**
-A Python app for tracking expenses, categorizing spending, and generating reports — built to answer the question "where did it all go?"
-
-```
-Backend    █████░░░░░ 50%
-Features   ████░░░░░░ 40%
-Bugs       ██████████ 100% (a feature, not a bug)
-```
-
-### 🤖 AI Projects — In the Lab
-
-| Project | The Pitch |
-|---|---|
-| **AI Fitness Coach** | An LLM-powered assistant that gives evidence-based fitness answers instead of "bro science." |
-| **PDF Chatbot** | Talk to your PDFs. They finally talk back. |
-| **Resume Analyzer** | An AI that roasts your resume before the recruiter does. |
-| **AI Research Assistant** | A RAG-powered agent that reads papers faster than I ever will. |
-| **Company Knowledge Assistant** | An internal AI agent that turns scattered docs into actual answers. |
+| **Student Management API** | REST API for managing student records — CRUD operations, SQLAlchemy models, Pydantic validation. |
+| **Student Management GUI** | Desktop interface for the Student Management system, built with Tkinter. |
+| **Task Manager API** | A FastAPI backend for creating, updating, and tracking tasks with a SQLite database. |
+| **Library Management API** | API for managing books, members, and borrowing records — REST endpoints with Swagger docs. |
+| **Authentication API** | A FastAPI service implementing password hashing with bcrypt/Passlib and core auth fundamentals. |
+| **Python Mini Projects** | A collection of smaller Python exercises and utilities, built while strengthening the fundamentals. |
+| **AI Developer Roadmap** | A public repo tracking my week-by-week transition from backend developer to AI engineer. |
 
 <br>
 
@@ -190,31 +241,9 @@ Bugs       ██████████ 100% (a feature, not a bug)
 
 ## ⚙️ Previous Engineering Projects
 
-**🔥 Fire Fighting Robot**
-Arduino UNO · Sensors · Motors — an autonomous bot built to detect and respond to fire before things got real.
+**🔥 Fire Fighting Robot** — Arduino UNO, sensors, motors — an autonomous bot built to detect and respond to fire.
 
-**🫁 Breath Monitoring System**
-ESP32 · MQ Sensors · OLED Display · IoT — a real-time respiratory monitoring system built during my ECE days.
-
-<br>
-
----
-
-<br>
-
-## 🐛 Bugs I Fight Daily
-
-```
-Bug:      "It worked yesterday."
-Me:       "What changed?"
-Computer: "Everything."
-
-Bug:      "Undefined is not a function."
-Me:       "Neither am I, at this hour."
-
-Bug:      "Works on my machine."
-Production: "Not on mine."
-```
+**🫁 Breath Monitoring System** — ESP32, MQ sensors, OLED display — a real-time respiratory monitoring system built during my ECE coursework.
 
 <br>
 
@@ -253,48 +282,6 @@ Production: "Not on mine."
 
 </div>
 
-<details>
-<summary><b>⚙️ Setup instructions (one-time, if the snake isn't showing yet)</b></summary>
-
-<br>
-
-1. Create a file at `.github/workflows/snake.yml` in your profile repo (`AboobakerSiddique/AboobakerSiddique`) with:
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 */6 * * *"
-  workflow_dispatch:
-  push:
-    branches:
-      - main
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        id: snake-gif
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-2. Push it, let the Action run once, and the `output` branch will appear with the generated SVG.
-3. The image link above will then render automatically.
-
-</details>
 
 <br>
 
@@ -305,12 +292,12 @@ jobs:
 ## 🎯 2026 Mission
 
 - [ ] Master Python at a production level
-- [ ] Get fluent in FastAPI
-- [ ] Build and ship real RAG systems
-- [ ] Build multi-step AI Agents
-- [ ] Ship a production-grade AI application
+- [ ] Get fluent in FastAPI and backend architecture
+- [ ] Complete JWT authentication and security fundamentals
+- [ ] Learn Docker and containerize a project
+- [ ] Build my first AI-powered application
 - [ ] Contribute to open source
-- [ ] Land my first AI Developer role
+- [ ] Land my first AI Developer / Backend role
 
 <br>
 
@@ -324,13 +311,15 @@ jobs:
 
 ```
 ☕ Coffee              100%
-🐛 Bugs Fixed          999+
+🐛 Bugs Fixed          Ongoing
 🤖 AI Knowledge        Loading...
 💾 Sleep.exe           Not Responding
 
-SYSTEM MESSAGE: Never stop building.
-```
+Veni.Vidi.Vici.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9D4EDD,50:00FF9C,100:000000&height=120&section=footer"/>
+```
+<img src="https://i.pinimg.com/1200x/b5/db/90/b5db90edde1ea0cd8f00985aab6abaaf.jpg"/>
+
+
 
 </div>
